@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu{
+    display: inline-block;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(240, 236, 236);
+}
+.menu ul{
+    margin: 0;
+    padding: 0;
+}
+.menu ul li{
+    list-style-type: none;
+    float: left;
+}
+.menu ul li a{
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+    color: black;
+}
+.top-banner{
+    background-color: rgb(216, 202, 202);
+    height: 500px;
+    overflow: hidden;
+}
+.top-banner img{
+    width: 80%;
+}
+.green-color{
+    color: green;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+p{
+    text-align: justify;
+}
+.button1{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, lightgreen, green);
+    color: white;
+    padding: 8px 20px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+.about{
+    background-color: rgb(182, 167, 167);
+    height: 500px;
+    overflow: hidden;
+}
+.about img{
+    width: 80%;
+}
+.projects{
+    background-color: rgb(161, 140, 140);
+    height: 450px;
+    overflow: hidden;
+}
+h3{
+    text-align: center;
+    padding: 20px;
+}
+span{
+    color: green;
+}
+.project{
+    width: 25%;
+    margin-left: 4%;
+    padding: 2%;
+    float: left;
+}
+.project img{
+    width: 100%;
+}
+.contact{
+    height: 250px;
+    overflow: hidden;
+    margin-top: 115px;
+}
+.chatting{
+    width:70%;
+    background-color: blueviolet;
+    height: 100px;
+    font-weight: 200px;
+    border-radius: 10px;
+    margin: auto;
+}
+.chatting a{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, lightgreen, green);
+    color: white;
+    padding: 41px 0px;
+    border-radius: 10px;
+    font-weight: 700;
+    text-align: center;
+}
+.chat{
+    width: 30%;
+    margin-left: 15%;
+    float: left;
+}
+.chatting h1{
+    color: white;
+    padding: 20px;
+}
+footer{
+    text-align: center;
+    color: gray;
+}   
+.mail{
+    text-align: center;
+    color: black;
+    font-size: 18px;
+}
+.icone{
+    
+}
